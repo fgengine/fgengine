@@ -1,0 +1,6 @@
+//
+//  FGE
+//
+
+public enum String {
+}
